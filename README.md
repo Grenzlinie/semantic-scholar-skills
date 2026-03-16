@@ -3,5 +3,5 @@
 Install the `semantic-scholar` skill:
 
 ```bash
-npx skill add https://github.com/Grenzlinie/semantic-scholar-skills --skill semantic-scholar
+npx skills add https://github.com/Grenzlinie/semantic-scholar-skills --skill semantic-scholar
 ```
